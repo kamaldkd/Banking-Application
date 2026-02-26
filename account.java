@@ -1,4 +1,4 @@
-import java.util.Scanner;
+uimport java.util.Scanner;
 
 class Account{
     //Class Variables
@@ -126,5 +126,4 @@ class Account{
         sc.close();
         System.out.println("Thank you for Banking with us");
     }
-         
 }
