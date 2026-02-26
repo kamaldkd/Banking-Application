@@ -3,5 +3,4 @@ public class myBank {
         Account kamal = new Account("Kamal Dhakad", "1001");
         kamal.showMenu();
     }
-    
 }
